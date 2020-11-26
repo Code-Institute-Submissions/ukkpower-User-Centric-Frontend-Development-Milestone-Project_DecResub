@@ -312,6 +312,62 @@ header .navbar-light .navbar-nav .nav-link:hover {
   margin-bottom: 20px;
 }
 
+/* features */
+
+.features-banner {
+  background: url(../images/features-banner.jpg) no-repeat left bottom fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.features-inner {
+  background: rgba(228,25,94,0.7);
+  text-align: center;
+  padding: 40px 0;
+}
+
+.features-intro {
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  clear: both;
+}
+
+.features-intro h3, .h3 {
+  font-size: 28px;
+  line-height: 36px;
+}
+
+.features-intro p{
+  line-height: 36px; 
+}
+
+.container-wrapper {
+  background: #f7f7f7;
+  border-top: 1px solid #e4e4e4;
+  padding: 70px 0 100px 0;  
+}
+
+.feature-icon-wrapper {
+  text-align: right;
+}
+
+.feature-ico {
+  border: 3px solid #e4195e;
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+  text-align: center;
+  line-height: 180px;
+}
+
+.feature-ico .fa{
+  font-size: 62px;
+}
+
 /* footer */
 
 footer {
