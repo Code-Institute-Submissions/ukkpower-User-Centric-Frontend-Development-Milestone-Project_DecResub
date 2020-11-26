@@ -312,6 +312,89 @@ header .navbar-light .navbar-nav .nav-link:hover {
   margin-bottom: 20px;
 }
 
+/* courses */
+
+.training-courses-banner {
+  background: url(../images/training-courses-banner.jpg) center center fixed no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.course-container {
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+.course-container h2{
+  font-family: "Asap";
+  text-align: center;
+  margin-bottom: 61px;
+}
+
+.course-container h2:after {
+  content: '';
+  width: 40px;
+  height: 3px;
+  background-color: #e60080;
+  position: relative;
+  display: block;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 19px;
+}
+
+.course-container h4{
+  font-family: "Asap";
+  margin-bottom: 10px;
+}
+
+.course-container .list-inline>li {
+  margin-right: 20px;
+  margin-top: 20px;
+  font-size: 21px;
+}
+
+.course-container .list-inline>li .fa{
+  margin-right: 5px;
+}
+
+.course-container .sprite {
+  background:url(../images/training-courses-sprite.jpg);
+}
+
+@media (min--moz-device-pixel-ratio: 1.5), (-o-min-device-pixel-ratio: 3/2), (-webkit-min-device-pixel-ratio: 1.5), (min-device-pixel-ratio: 1.5), (min-resolution: 1.5dppx) {
+.course-container .sprite {
+    background:url(../images/training-courses-sprite@x2.jpg);
+    background-size: 210px 840px;
+  }
+}
+
+.course-container .sprite.reglatory-courses {
+  width: 210px;
+  height: 210px;
+  background-position: 0 -0px;
+}
+
+.course-container .sprite.safety-development {
+  width: 210px;
+  height: 210px;
+  background-position: 0 -210px;
+}
+
+.course-container .sprite.guest-satisfaction {
+  width: 210px;
+  height: 210px;
+  background-position: 0 -420px;
+}
+
+.course-container .sprite.induction {
+  width: 210px;
+  height: 210px;
+  background-position: 0 -630px;
+}
+
 /* features */
 
 .features-banner {
