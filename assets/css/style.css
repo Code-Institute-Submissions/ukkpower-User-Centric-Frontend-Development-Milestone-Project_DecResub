@@ -451,6 +451,85 @@ header .navbar-light .navbar-nav .nav-link:hover {
   font-size: 62px;
 }
 
+/* contact */
+
+.contact-banner {
+  background: url(../images/contact-banner.jpg) no-repeat left bottom fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.contact-banner .features-inner {
+  background: rgba(1,154,187,0.7);
+}
+
+#contact-us {
+  padding: 80px 0 150px;
+  clear: both;
+}
+
+#contact-us form{
+  margin-top: 44px;
+}
+
+#contact-us h3 {
+  font-family: "Asap";
+  font-weight: 400;
+}
+
+#contact-us .contact-details .fa {
+  font-size: 22px;
+}
+
+#contact-us .contact-details h4 {
+  color: #38b1eb;
+  margin: 0 0 7px;
+  line-height: normal;
+  font-size: 32px;
+}
+
+#contact-us .contact-details ul li {
+ margin-bottom: 25px; 
+}
+
+#contact-us .contact-details ul li span{
+  font-weight: 300;
+}
+
+#contact-us .contact-col {
+  padding-left: 34px;
+}
+
+#contact-us  .form-control {
+  display: block;
+  width: 100%;
+  padding: 6px 12px;
+  font-size: 16px;
+  line-height: 1.75;
+  color: #a6b9ce;
+  background-color: #f0f4f8;
+  background-image: none;
+  border: 1px solid #e3eaf3;
+  border-radius: 4px;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  -webkit-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+  -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+  transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+
+#contact-us form textarea {
+  height: 182px;
+}
+
+.center {
+  max-width: 1210px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
 /* footer */
 
 footer {
