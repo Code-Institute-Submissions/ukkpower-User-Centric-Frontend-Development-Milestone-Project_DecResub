@@ -530,6 +530,84 @@ header .navbar-light .navbar-nav .nav-link:hover {
   padding: 0 20px;
 }
 
+/* request demo */
+
+.demo-signup {
+  padding: 90px 0 100px;
+}
+
+.demo-signup .sprite-sub-logo {
+  width: 108px;
+  height: 77px;
+  background-position: 0 -92px;
+  margin: auto;
+}
+
+.demo-signup strong{
+  font-size: 14px;
+}
+
+#partner_form {
+  padding: 30px; 
+}
+
+.signup-form {
+  background-color: #fff;
+  border-radius: 5px;
+  border: 1px solid #D5DEE9;
+  padding: 0;
+  padding-top: 30px;
+  position: relative;
+  margin-top: 40px;
+}
+
+#sign-up .btn {
+  height: 50px;
+  font-size: 18px;
+}
+
+#sign-up .helper {
+  margin-top: 10px;
+  font-size: 12px;
+}
+
+.extra-benefits {
+  padding: 30px;
+  background-color: #F1F5F9;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-top: 1px solid #D5DEE9;
+}
+
+.extra-benefits ul {
+  margin-left: 0;
+}
+
+.extra-benefits ul li .fa{
+ color: #5cb85c;
+ margin-right: 15px;
+}
+
+/* forms */
+
+.form-control {
+  display: block;
+  width: 100%;
+  padding: 6px 12px;
+  font-size: 16px;
+  line-height: 1.75;
+  color: #a6b9ce;
+  background-color: #f0f4f8;
+  background-image: none;
+  border: 1px solid #e3eaf3;
+  border-radius: 4px;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  -webkit-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+  -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+  transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+
 /* footer */
 
 footer {
