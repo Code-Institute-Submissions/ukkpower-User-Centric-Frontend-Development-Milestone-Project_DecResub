@@ -201,11 +201,11 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Code
 
-- The full-screen hero image code came from this [StackOverflow post](https://stackoverflow.com)
+- [Animista](https://animista.net/) was used to generate the CSS text animations
 
 - [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
 
-- [MDN Web Docs](https://developer.mozilla.org/) : For Pattern Validation code. Code was modified to better fit my needs and to match an Irish phone number layout to ensure correct validation. Tutorial Found [Here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/tel#Pattern_validation)
+- [Metatags.io](https://metatags.io/) was used to generate the head meta tags to ensure website is properly displayed on the main socila media platforms 
 
 ### Content
 
