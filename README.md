@@ -72,10 +72,10 @@ Included in the template.html: [View](https://ukkpower.github.io/hotel/template.
 
 ### Frameworks, Libraries & Programs Used
 
-1. [Bootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+1. [Bootstrap 4.5.2:](https://getbootstrap.com/docs/4.5.2/getting-started/introduction/)
     - Bootstrap was used to assist with the responsiveness and styling of the website.
 1. [Google Fonts:](https://fonts.google.com/)
-    - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
+    - Google fonts were used to import the 'Asap' and 'Roboto' font into the style.css file which is used on all pages throughout the project.
 1. [Font Awesome:](https://fontawesome.com/)
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 1. [jQuery:](https://jquery.com/)
@@ -93,12 +93,12 @@ Included in the template.html: [View](https://ukkpower.github.io/hotel/template.
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+-   [W3C Markup Validator](https://validator.w3.org/) - [Results](https://github.com/)
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
 
 The website has been tested on multiple device to ensure it is fully responsive.
 
-Lighthouse in Chrome DevTools was used to test performance and accesibility
+Lighthouse in Chrome DevTools was used to test performance and accesibility.
 
 ### Testing User Stories from User Experience (UX) Section
 
@@ -203,7 +203,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 - [Animista](https://animista.net/) was used to generate the CSS text animations
 
-- [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
+- [Bootstrap4](https://getbootstrap.com/docs/4.5.2/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
 
 - [Metatags.io](https://metatags.io/) was used to generate the head meta tags to ensure website is properly displayed on the main socila media platforms 
 
@@ -215,7 +215,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Media
 
-- All Images were created by the developer.
+- Images were obtained from Getty images and licences would need to be kept up to date.
 
 ### Acknowledgements
 
