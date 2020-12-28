@@ -1,4 +1,4 @@
-<h1 align="center">Code Institute Website</h1>
+<h1 align="center">Hotelier Academy</h1>
 
 [View the live project here.](https://ukkpower.github.io/hotel/index.html)
 
