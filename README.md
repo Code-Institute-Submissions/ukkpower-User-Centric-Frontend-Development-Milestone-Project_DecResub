@@ -1,6 +1,6 @@
-<h1 align="center">Hotelier Academy</h1>
+<h1 align="center">Hotelier Academy Website</h1>
 
-[View the live project here.](https://ukkpower.github.io/hotel/index.html)
+[View the live project here.](https://ukkpower.github.io/User-Centric-Frontend-Development-Milestone-Project/)
 
 This is the main website for the company Hotelier Academy. The purpose of this website is to market the business by explaining what the Hotelier Academy training platform is, the features and the benefits to the hotel industry.  The target audience is b2b users.
 
@@ -30,27 +30,27 @@ The central design philosophy for the website is a text driven design with some 
 ### Wireframes
 
 #### Concept Sketch
-- Home Page - [View](https://github.com/)
-- Features Page - [View](https://github.com/)
-- Courses Page - [View](https://github.com/)
-- Contact Us Page - [View](https://github.com/)
+- Home Page - [View](https://ukkpower.github.io/User-Centric-Frontend-Development-Milestone-Project/docs/wireframes/#/page/1a0dfded43174a148c67215c909735b8)
+- Features Page - [View](https://ukkpower.github.io/User-Centric-Frontend-Development-Milestone-Project/docs/wireframes/#/page/D79dc0d691ee0d6df99c05804ddd76c5c)
+- Courses Page - [View](https://ukkpower.github.io/User-Centric-Frontend-Development-Milestone-Project/docs/wireframes/#/page/D4f50e053717c363376a8e2dd7a472aa5)
+- Contact Us Page - [View](https://ukkpower.github.io/User-Centric-Frontend-Development-Milestone-Project/docs/wireframes/#/page/D35ea9999620fbda887832ef529d481ca)
 
 #### Wireframes
-- Home Page Wireframe - [View](https://github.com/)
-- Features Page - [View](https://github.com/)
-- Courses Page - [View](https://github.com/)
-- Contact Us Page - [View](https://github.com/)
+- Home Page Wireframe - [View](https://ukkpower.github.io/User-Centric-Frontend-Development-Milestone-Project/docs/wireframes/#/page/D24c3496051ebc1da6722d8f9e955567a)
+- Features Page - [View](https://ukkpower.github.io/User-Centric-Frontend-Development-Milestone-Project/docs/wireframes/#/page/D8dc41e69e3c11dfcf00adc02dfc267d0)
+- Courses Page - [View](https://ukkpower.github.io/User-Centric-Frontend-Development-Milestone-Project/docs/wireframes/#/page/D13db82ee9a553fd9df2a6abad220051d
+- Contact Us Page - [View](https://ukkpower.github.io/User-Centric-Frontend-Development-Milestone-Project/docs/wireframes/#/page/Db8bcda7d9c4caf3add1c272b6bdcfb5b)
 
 #### Design
-- Home Page - [View](https://github.com/)
-- Features Page - [View](https://github.com/)
-- Courses Page - [View](https://github.com/)
-- Contact Us Page - [View](https://github.com/)
+- Home Page - [View](https://ukkpower.github.io/User-Centric-Frontend-Development-Milestone-Project/docs/wireframes/#/page/D4eb387293e993cd681784e37d74c6c47)
+- Features Page - [View](https://ukkpower.github.io/User-Centric-Frontend-Development-Milestone-Project/docs/wireframes/#/page/Df739ca0f25da8e29bcb9274a7e6a11ae)
+- Courses Page - [View](https://ukkpower.github.io/User-Centric-Frontend-Development-Milestone-Project/docs/wireframes/#/page/D5f91885f867e2952a48142f32fe46c46)
+- Contact Us Page - [View](https://ukkpower.github.io/User-Centric-Frontend-Development-Milestone-Project/docs/wireframes/#/page/D1dba5bae99751fa8e384905c62139a8f)
 
 ## Template
 A template file is provided for the creation of further pages in the future. The template contains the essential html and css structure that has passed W3C standards. The template uses Bootstrap 4.
 
-Included in the template.html: [View](https://ukkpower.github.io/hotel/template.html)
+Included in the template.html: [View](https://ukkpower.github.io/User-Centric-Frontend-Development-Milestone-Project/template.html)
 
 - HTML5 Structure
 - CSS3
