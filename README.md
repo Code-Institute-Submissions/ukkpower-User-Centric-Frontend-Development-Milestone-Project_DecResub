@@ -50,7 +50,7 @@ The central design philosophy for the website is a text driven design with some 
 ## Template
 A template file is provided for the creation of further pages in the future. The template contains the essential html and css structure that has passed W3C standards. The template uses Bootstrap 4.
 
-Included in the template.html: [View](https://github.com/)
+Included in the template.html: [View](https://ukkpower.github.io/hotel/template.html)
 
 - HTML5 Structure
 - CSS3

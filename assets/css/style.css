@@ -1,17 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Asap&family=Roboto:wght@100;300;700&display=swap');
 
-html {
-
-}
-
 body {
   font-size: 16px;
   background: none repeat scroll 0 0 white;
   color: #4c4c4c;
   font-family: "Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
   font-weight: 300;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
 
 h1, h2, h3 {
@@ -45,20 +39,17 @@ sup {
 
 .btn-prim {
   background-color: #e4195e;
-  border-color: #e4195e;
   color: #FFFFFF !important;
 }
 
 .btn-prim:hover {
   background-color: #019abb;
-  border-color: #019abb;
   color: #FFFFFF;
   text-decoration: underline;
 }
 
 .btn-sub {
   background-color: #019abb;
-  border-color: #019abb;
   color: #FFFFFF;
 }
 
@@ -87,14 +78,8 @@ sup {
 }
 
 .logo-sprite {
-  background: url(../images/logo-sprite.png);
-}
-
-@media (min--moz-device-pixel-ratio: 1.5), (-o-min-device-pixel-ratio: 3/2), (-webkit-min-device-pixel-ratio: 1.5), (min-device-pixel-ratio: 1.5), (min-resolution: 1.5dppx) {
-  .logo-sprite {
-    background: url(../images/logo-sprite@x2.png);
-    background-size: 300px 169px;
-  }
+  background: url(../images/logo-sprite@x2.png);
+  background-size: 300px 169px;
 }
 
 /* navbar */
@@ -144,7 +129,6 @@ header .navbar-light .navbar-nav .nav-link:hover {
 }
 
 .feature-content {
-  filter: alpha(opacity=100);
   max-width: 760px;
   opacity: 1;
   position: relative;
@@ -166,10 +150,6 @@ header .navbar-light .navbar-nav .nav-link:hover {
 .feature-primary-icon-holder {
   position: absolute;
   top: 50%;
-  -webkit-transform: translateY(-50%);
-  -moz-transform: translateY(-50%);
-  -ms-transform: translateY(-50%);
-  -o-transform: translateY(-50%);
   transform: translateY(-50%);
   right: 5%;
 }
@@ -206,9 +186,6 @@ header .navbar-light .navbar-nav .nav-link:hover {
 
 .main-banner {
   background: url(../images/featured.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
   background-size: cover;
   padding: 50px 0;
 }
@@ -264,7 +241,6 @@ header .navbar-light .navbar-nav .nav-link:hover {
   float: right;
   color: #333;
   background-color: #fff;
-  border-color: #fff;
   padding: 3px 48px;
 }
 
@@ -317,9 +293,6 @@ header .navbar-light .navbar-nav .nav-link:hover {
 
 .training-courses-banner {
   background: url(../images/training-courses-banner.jpg) center center fixed no-repeat;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
   background-size: cover;
 }
 
@@ -362,14 +335,8 @@ header .navbar-light .navbar-nav .nav-link:hover {
 }
 
 .course-container .sprite {
-  background:url(../images/training-courses-sprite.jpg);
-}
-
-@media (min--moz-device-pixel-ratio: 1.5), (-o-min-device-pixel-ratio: 3/2), (-webkit-min-device-pixel-ratio: 1.5), (min-device-pixel-ratio: 1.5), (min-resolution: 1.5dppx) {
-.course-container .sprite {
-    background:url(../images/training-courses-sprite@x2.jpg);
-    background-size: 210px 840px;
-  }
+  background:url(../images/training-courses--sprite@x2.jpg);
+  background-size: 210px 840px;
 }
 
 .course-container .sprite.reglatory-courses {
@@ -400,9 +367,6 @@ header .navbar-light .navbar-nav .nav-link:hover {
 
 .features-banner {
   background: url(../images/features-banner.jpg) no-repeat left bottom fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
   background-size: cover;
 }
 
@@ -456,9 +420,6 @@ header .navbar-light .navbar-nav .nav-link:hover {
 
 .contact-banner {
   background: url(../images/contact-banner.jpg) no-repeat left bottom fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
   background-size: cover;
 }
 
@@ -514,10 +475,7 @@ header .navbar-light .navbar-nav .nav-link:hover {
   background-image: none;
   border: 1px solid #e3eaf3;
   border-radius: 4px;
-  -webkit-box-shadow: none;
   box-shadow: none;
-  -webkit-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
-  -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
   transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
 }
 
@@ -602,10 +560,7 @@ header .navbar-light .navbar-nav .nav-link:hover {
   background-image: none;
   border: 1px solid #e3eaf3;
   border-radius: 4px;
-  -webkit-box-shadow: none;
   box-shadow: none;
-  -webkit-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
-  -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
   transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
 }
 
@@ -638,13 +593,11 @@ footer ul {
 /* animations */
 
 .fade-in-bottom {
-  -webkit-animation: fade-in-bottom 1s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
-          animation: fade-in-bottom 1s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+    animation: fade-in-bottom 1s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
 }
 
 .scale-up-center {
-  -webkit-animation: scale-up-center 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
-          animation: scale-up-center 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+    animation: scale-up-center 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
 }
 
 /* ----------------------------------------------
@@ -659,24 +612,13 @@ footer ul {
  * animation scale-up-center
  * ----------------------------------------
  */
-@-webkit-keyframes scale-up-center {
-  0% {
-    -webkit-transform: scale(0.5);
-            transform: scale(0.5);
-  }
-  100% {
-    -webkit-transform: scale(1);
-            transform: scale(1);
-  }
-}
+
 @keyframes scale-up-center {
   0% {
-    -webkit-transform: scale(0.5);
-            transform: scale(0.5);
+    transform: scale(0.5);
   }
   100% {
-    -webkit-transform: scale(1);
-            transform: scale(1);
+    transform: scale(1);
   }
 }
 
@@ -685,27 +627,14 @@ footer ul {
  * animation fade-in-bottom
  * ----------------------------------------
  */
-@-webkit-keyframes fade-in-bottom {
-  0% {
-    -webkit-transform: translateY(50px);
-            transform: translateY(50px);
-    opacity: 0;
-  }
-  100% {
-    -webkit-transform: translateY(0);
-            transform: translateY(0);
-    opacity: 1;
-  }
-}
+
 @keyframes fade-in-bottom {
   0% {
-    -webkit-transform: translateY(50px);
-            transform: translateY(50px);
+    transform: translateY(50px);
     opacity: 0;
   }
   100% {
-    -webkit-transform: translateY(0);
-            transform: translateY(0);
+    transform: translateY(0);
     opacity: 1;
   }
 }
