@@ -8,7 +8,7 @@ The design is a desktop first approach as that is the main device the target aud
 
 The central design philosophy for the website is a text driven design with some complimentary images. The text is specifically laid out to be very easy to read and deliver its message quickly to the user. By using a text design the website by it nature will be fast loading.
 
-<h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>
+<h2 align="center"><img src="mockup.png"></h2>
 
 ## User Experience (UX)
 
