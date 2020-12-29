@@ -66,7 +66,7 @@ sup {
 }
 
 .blue-bg {
-  background-color: #E4EBF1; 
+  background-color: #E4EBF1;
 }
 
 .logo {
@@ -84,21 +84,20 @@ sup {
 
 /* navbar */
 
-.navbar .navbar-brand img{
+.navbar .navbar-brand img {
   padding: 0;
   width: 223px;
   height: 60px;
   background-position: 0 -32px;
 }
 
-
 .navbar-light .navbar-nav .nav-link {
-    text-transform: uppercase;
-    font-size: 16px;
+  text-transform: uppercase;
+  font-size: 16px;
 }
 
 header .navbar-light .navbar-nav .nav-link:hover {
-    color: #e4195e
+  color: #e4195e;
 }
 
 /* featured image */
@@ -111,7 +110,7 @@ header .navbar-light .navbar-nav .nav-link:hover {
 
 .feature-container {
   position: relative;
-  float: left;  
+  float: left;
 }
 
 .feature-content {
@@ -119,7 +118,7 @@ header .navbar-light .navbar-nav .nav-link:hover {
   opacity: 1;
   position: relative;
   width: 100%;
-  float: left; 
+  float: left;
 }
 
 .feature-primary {
@@ -161,11 +160,11 @@ header .navbar-light .navbar-nav .nav-link:hover {
 
 .feature-video-wrapper {
   overflow: hidden;
-  position:absolute;
-  top:0;
-  left:0;
-  width:100%;
-  height:100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 
 /* main page */
@@ -195,6 +194,7 @@ header .navbar-light .navbar-nav .nav-link:hover {
   #content-main {
     padding: 60px 0 80px 0;
   }
+
   #content-main h1 {
     margin-top: 50px;
   }
@@ -207,30 +207,30 @@ header .navbar-light .navbar-nav .nav-link:hover {
 }
 
 #content-request {
- background-color: #019abb;
- color: #fff;
- padding-top: 15px;
- padding-bottom: 15px;
- clear: both;
+  background-color: #019abb;
+  color: #fff;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  clear: both;
 }
 
-#content-request h2{
+#content-request h2 {
   float: left;
   margin-top: 10px;
 }
 
-#content-request h2 span{
+#content-request h2 span {
   font-weight: 300;
 }
 
-#content-request .btn.btn-contact{
+#content-request .btn.btn-contact {
   float: right;
   color: #333;
   background-color: #fff;
   padding: 3px 48px;
 }
 
-#content-request .btn span{
+#content-request .btn span {
   font-size: 21px;
   color: #e4195e;
 }
@@ -244,7 +244,7 @@ header .navbar-light .navbar-nav .nav-link:hover {
   text-align: center;
 }
 
-#feature-containers .feature-intro p{
+#feature-containers .feature-intro p {
   font-size: 18px;
 }
 
@@ -267,11 +267,11 @@ header .navbar-light .navbar-nav .nav-link:hover {
   text-decoration: none;
 }
 
-#feature-containers .feature-box span{
+#feature-containers .feature-box span {
   font: 16px "Asap";
 }
 
-#feature-containers .feature-box ul{
+#feature-containers .feature-box ul {
   margin-bottom: 20px;
 }
 
@@ -287,7 +287,7 @@ header .navbar-light .navbar-nav .nav-link:hover {
   margin-bottom: 80px;
 }
 
-.course-container h2{
+.course-container h2 {
   font-family: "Asap";
   text-align: center;
   margin-bottom: 61px;
@@ -305,7 +305,7 @@ header .navbar-light .navbar-nav .nav-link:hover {
   margin-top: 19px;
 }
 
-.course-container h4{
+.course-container h4 {
   font-family: "Asap";
   margin-bottom: 10px;
 }
@@ -316,12 +316,12 @@ header .navbar-light .navbar-nav .nav-link:hover {
   font-size: 21px;
 }
 
-.course-container .list-inline>li .fa{
+.course-container .list-inline>li .fa {
   margin-right: 5px;
 }
 
 .course-container .sprite {
-  background:url(../images/training-courses--sprite@x2.jpg);
+  background: url(../images/training-courses--sprite@x2.jpg);
   background-size: 210px 840px;
 }
 
@@ -374,14 +374,14 @@ header .navbar-light .navbar-nav .nav-link:hover {
   line-height: 36px;
 }
 
-.features-intro p{
-  line-height: 36px; 
+.features-intro p {
+  line-height: 36px;
 }
 
 .container-wrapper {
   background: #f7f7f7;
   border-top: 1px solid #e4e4e4;
-  padding: 70px 0 100px 0;  
+  padding: 70px 0 100px 0;
 }
 
 .feature-icon-wrapper {
@@ -398,7 +398,7 @@ header .navbar-light .navbar-nav .nav-link:hover {
   line-height: 180px;
 }
 
-.feature-ico .fa{
+.feature-ico .fa {
   font-size: 62px;
 }
 
@@ -418,7 +418,7 @@ header .navbar-light .navbar-nav .nav-link:hover {
   clear: both;
 }
 
-#contact-us form{
+#contact-us form {
   margin-top: 44px;
 }
 
@@ -439,10 +439,10 @@ header .navbar-light .navbar-nav .nav-link:hover {
 }
 
 #contact-us .contact-details ul li {
- margin-bottom: 25px; 
+  margin-bottom: 25px;
 }
 
-#contact-us .contact-details ul li span{
+#contact-us .contact-details ul li span {
   font-weight: 300;
 }
 
@@ -488,12 +488,12 @@ header .navbar-light .navbar-nav .nav-link:hover {
   margin: auto;
 }
 
-.demo-signup strong{
+.demo-signup strong {
   font-size: 14px;
 }
 
 #partner_form {
-  padding: 30px; 
+  padding: 30px;
 }
 
 .signup-form {
@@ -528,9 +528,9 @@ header .navbar-light .navbar-nav .nav-link:hover {
   margin-left: 0;
 }
 
-.extra-benefits ul li .fa{
- color: #5cb85c;
- margin-right: 15px;
+.extra-benefits ul li .fa {
+  color: #5cb85c;
+  margin-right: 15px;
 }
 
 /* forms */
@@ -560,11 +560,11 @@ footer {
   font-size: 11px;
 }
 
-footer a{
+footer a {
   color: #fff;
 }
 
-footer a:hover{
+footer a:hover {
   color: #fff;
 }
 
@@ -587,11 +587,11 @@ footer ul {
 /* animations */
 
 .fade-in-bottom {
-    animation: fade-in-bottom 1s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+  animation: fade-in-bottom 1s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
 }
 
 .scale-up-center {
-    animation: scale-up-center 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+  animation: scale-up-center 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
 }
 
 /* ----------------------------------------------
@@ -611,6 +611,7 @@ footer ul {
   0% {
     transform: scale(0.5);
   }
+
   100% {
     transform: scale(1);
   }
@@ -627,6 +628,7 @@ footer ul {
     transform: translateY(50px);
     opacity: 0;
   }
+
   100% {
     transform: translateY(0);
     opacity: 1;
