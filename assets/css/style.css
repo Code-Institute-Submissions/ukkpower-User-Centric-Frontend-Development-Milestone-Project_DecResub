@@ -574,6 +574,14 @@ footer {
   font-size: 11px;
 }
 
+footer a{
+  color: #fff;
+}
+
+footer a:hover{
+  color: #fff;
+}
+
 footer .footer-logo {
   display: block;
   margin-bottom: 5px;
