@@ -244,7 +244,7 @@
                         <div class="form-group">
                             <input type="text" class="form-control" name="phone" placeholder="Phone Number" data-bv-field="phone">
                         </div>
-                        <button type="submit" id="get_started_btn" class="btn btn-sub btn-block">Get Started</button>
+                        <button type="button" id="get_started_btn" class="btn btn-sub btn-block" data-toggle="modal" data-target="#demo-request">Get Started</button>
                         <p class="helper text-center">After "Get Started" we will be in contact with you to arrange a private demonstration.</p>
                     </form>
                     <div class="extra-benefits">
@@ -298,6 +298,26 @@
         </div>
       </div>
     </footer>
+
+    <!-- Demo Request MOdal -->    
+    <div id="demo-request" class="modal" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Demo Requsted</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p>Thank you for your interest in seeing a demo. We will be in contact with you shortly</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-prim" data-dismiss="modal">Close</button>
+            </div>
+            </div>
+        </div>
+    </div>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/umd/popper.min.js"></script>
