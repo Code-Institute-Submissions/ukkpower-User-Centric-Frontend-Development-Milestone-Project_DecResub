@@ -82,7 +82,7 @@
                 <a class="nav-link" href="contact.html">Contact</a>
               </li>
               <li class="nav-item">
-                <a class="btn btn-prim" type="button" href="sign-in.html">Sign In</a>
+                <button class="btn btn-prim" type="button" data-toggle="modal" data-target="#signin-modal">Sign In</button>
               </li>
             </ul>
           </div>
@@ -131,6 +131,26 @@
         </div>
       </div>
     </footer>
+
+    <!-- Signin Modal -->    
+    <div id="signin-modal" class="modal fade" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Coming Soon</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p>This feature will be coming soon.</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-prim" data-dismiss="modal">Close</button>
+            </div>
+            </div>
+        </div>
+    </div>    
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/umd/popper.min.js"></script>
