@@ -223,7 +223,7 @@ header .navbar-light .navbar-nav .nav-link:hover {
   font-weight: 300;
 }
 
-#content-request .btn.btn-contact {
+#content-request .btn-contact {
   float: right;
   color: #333;
   background-color: #fff;
@@ -256,7 +256,6 @@ header .navbar-light .navbar-nav .nav-link:hover {
 #feature-containers .feature-box .feature-ico {
   border: 1px solid #fff;
   border-radius: 100px;
-  padding: 10px;
   background-color: #00bbe2;
   color: #fff;
   width: 100px;
@@ -325,25 +324,25 @@ header .navbar-light .navbar-nav .nav-link:hover {
   background-size: 210px 840px;
 }
 
-.course-container .sprite.reglatory-courses {
+.course-container .reglatory-courses {
   width: 210px;
   height: 210px;
-  background-position: 0 -0px;
+  background-position: 0;
 }
 
-.course-container .sprite.safety-development {
+.course-container .safety-development {
   width: 210px;
   height: 210px;
   background-position: 0 -210px;
 }
 
-.course-container .sprite.guest-satisfaction {
+.course-container .guest-satisfaction {
   width: 210px;
   height: 210px;
   background-position: 0 -420px;
 }
 
-.course-container .sprite.induction {
+.course-container .induction {
   width: 210px;
   height: 210px;
   background-position: 0 -630px;
@@ -369,7 +368,7 @@ header .navbar-light .navbar-nav .nav-link:hover {
   clear: both;
 }
 
-.features-intro h3, .h3 {
+.features-intro h3{
   font-size: 28px;
   line-height: 36px;
 }
