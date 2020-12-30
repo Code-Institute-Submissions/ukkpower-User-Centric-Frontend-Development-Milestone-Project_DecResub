@@ -38,7 +38,7 @@ The central design philosophy for the website is a text driven design with some 
 #### Wireframes
 - Home Page Wireframe - [View](https://ukkpower.github.io/User-Centric-Frontend-Development-Milestone-Project/docs/wireframes/#/page/D24c3496051ebc1da6722d8f9e955567a)
 - Features Page - [View](https://ukkpower.github.io/User-Centric-Frontend-Development-Milestone-Project/docs/wireframes/#/page/D8dc41e69e3c11dfcf00adc02dfc267d0)
-- Courses Page - [View](https://ukkpower.github.io/User-Centric-Frontend-Development-Milestone-Project/docs/wireframes/#/page/D13db82ee9a553fd9df2a6abad220051d
+- Courses Page - [View](https://ukkpower.github.io/User-Centric-Frontend-Development-Milestone-Project/docs/wireframes/#/page/D13db82ee9a553fd9df2a6abad220051d)
 - Contact Us Page - [View](https://ukkpower.github.io/User-Centric-Frontend-Development-Milestone-Project/docs/wireframes/#/page/Db8bcda7d9c4caf3add1c272b6bdcfb5b)
 
 #### Design
@@ -186,13 +186,13 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 6. Type `git clone`, and then paste the URL you copied in Step 3.
 
 ```
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+$ git clone https://github.com/ukkpower/User-Centric-Frontend-Development-Milestone-Project
 ```
 
 7. Press Enter. Your local clone will be created.
 
 ```
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+$ git clone https://github.com/ukkpower/User-Centric-Frontend-Development-Milestone-Project
 > Cloning into `CI-Clone`...
 > remote: Counting objects: 10, done.
 > remote: Compressing objects: 100% (8/8), done.
